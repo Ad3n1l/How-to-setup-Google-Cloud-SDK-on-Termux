@@ -22,10 +22,9 @@ This script fixes both.
 ## Quick Install
 
 ```bash
-curl -sL https://raw.githubusercontent.com/Ad3n1l/[REPO_NAME]/main/setup_gcloud.sh | bash
+curl -sL https://raw.githubusercontent.com/Ad3n1l/How-to-setup-Google-Cloud-SDK-on-Termux/main/setup_gcloud.sh | bash
 ```
 
-> **Tip:** You can also host this as a [GitHub Gist](https://gist.github.com) and use its raw URL.
 
 ---
 
